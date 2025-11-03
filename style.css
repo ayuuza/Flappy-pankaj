@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#6ec6ff, #fff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    border: 4px solid black;
+    border-radius: 10px;
+    background: url("https://i.imgur.com/H33740l.png") repeat-x;
+    background-size: cover;
+}
